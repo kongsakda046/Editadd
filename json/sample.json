@@ -1,0 +1,151 @@
+{
+    "name": "System",
+
+  "children": [
+        {
+           
+            "name": "Use-case-1",
+            "ID":"1",
+            "isparent": false,
+            "children":[{
+                "name": "var-name-1",
+               "isparent":true ,
+               "children":[{
+                "name": "value 1",
+                "isparent":true},
+                { 
+                    "name": "value 2", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 3", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 4", 
+                    "isparent":true
+
+               }]
+            },
+            {
+               "name": "var-name-2",
+               "isparent":true,
+              
+               "children":[{
+                "name": "value 5",
+                "isparent":true},
+                { 
+                    "name": "value 6", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 7", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 8", 
+                    "isparent":true
+
+               }]
+            }
+               ]  
+        },
+        {
+            "name": "Use-case-2",
+            "isparent": false,
+            "children":[{
+                "name": "var-name-3",
+               "isparent":true ,
+               "children":[{
+                "name": "value 9",
+                "isparent":true},
+                { 
+                    "name": "value 10", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 11", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 12", 
+                    "isparent":true
+
+               }]
+            },
+            {
+               "name": "var-name-4",
+               "isparent":true,
+              
+               "children":[{
+                "name": "value 13",
+                "isparent":true},
+                { 
+                    "name": "value 14", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 15", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 16", 
+                    "isparent":true
+
+               }]
+            }
+               ]
+
+        },
+        {
+            "name": "Use-case-3",
+            "isparent": false,
+            "children":[{
+                "name": "var-name-5",
+               "isparent":true ,
+               "children":[{
+                "name": "value 17",
+                "isparent":true},
+                { 
+                    "name": "value 18", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 19", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 20", 
+                    "isparent":true
+
+               }]
+            },
+            {
+               "name": "var-name-6",
+               "isparent":true,
+              
+               "children":[{
+                "name": "value 21",
+                "isparent":true},
+                { 
+                    "name": "value 22", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 23", 
+                    "isparent":true
+                },
+                { 
+                    "name": "value 24", 
+                    "isparent":true
+
+               }]
+            }
+               ]
+               
+           
+            
+        }
+        
+    ]
+}
